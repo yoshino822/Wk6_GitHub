@@ -1,0 +1,63 @@
+form {
+  display: flex;
+  margin-bottom: 20px;
+}
+input {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.main {
+  margin: 30px;
+  padding: 50px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.icon-temp {
+  display: flex;
+}
+.main-icon {
+  width: 200px;
+}
+.main-temp {
+  font-size: 100px;
+  margin-top: auto;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.main-city {
+  text-align: end;
+}
+.degree {
+  font-size: 50px;
+}
+h1 {
+  font-size: 80px;
+}
+.date-week {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.icon-week {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search-button {
+  width: 270px;
+  background: rgb(148, 148, 244);
+}
+.todaysWeather {
+  font-size: 40px;
+}
+
+.link {
+  cursor: pointer;
+}
+
+.link:hover {
+  color: blue;
+}
